@@ -1,0 +1,3 @@
+Train the machine learning model
+
+python src/model_training.py
