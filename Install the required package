@@ -1,0 +1,7 @@
+pip install -r requirements.txt
+
+## Usage
+
+1. Place your raw data files (browsing_history.csv, purchase_history.csv, and user_demographics.csv) in the `data/raw_data` directory.
+
+2. Run the data preprocessing script:
