@@ -1,0 +1,6 @@
+
+. Run the data preprocessing script:
+
+
+
+python src/data_preprocessing.py
