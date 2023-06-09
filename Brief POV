@@ -1,0 +1,22 @@
+personalized-product-recommendation/
+│
+├── data/
+│   ├── raw_data/
+│   │   ├── browsing_history.csv
+│   │   ├── purchase_history.csv
+│   │   └── user_demographics.csv
+│   └── processed_data/
+│       └── user_features.csv
+│
+├── src/
+│   ├── data_preprocessing.py
+│   ├── feature_engineering.py
+│   ├── model_training.py
+│   ├── recommendation_generation.py
+│   └── evaluation.py
+│
+├── models/
+│   └── trained_model.pkl
+│
+├── README.md
+└── requirements.txt
