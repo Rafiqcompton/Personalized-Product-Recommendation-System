@@ -1,0 +1,3 @@
+ Run the feature engineering script:
+
+python src/feature_engineering.py
