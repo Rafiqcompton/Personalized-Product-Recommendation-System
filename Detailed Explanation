@@ -1,0 +1,4 @@
+The src directory contains the Python scripts for each step of the algorithm, such as data preprocessing, feature engineering, model training, recommendation generation, and evaluation.
+The data directory stores the raw and processed data files, while the models directory contains the trained machine learning model. 
+The README.md file provides an overview of the project, installation instructions, and usage guidelines.
+The requirements.txt file lists the required Python packages for the project.0
