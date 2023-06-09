@@ -1,0 +1,16 @@
+# Personalized Product Recommendation System
+
+This repository contains the implementation of a personalized product recommendation system for e-commerce platforms. The system uses user data, such as browsing history, purchase history, and demographic information, to generate personalized product recommendations that can lead to increased sales and improved customer satisfaction.
+
+## Getting Started
+
+### Prerequisites
+
+- Python 3.7+
+- pandas
+- scikit-learn
+- numpy
+
+### Installation
+
+1. Clone the repository:
